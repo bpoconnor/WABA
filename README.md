@@ -1,11 +1,11 @@
-## DFA.CANCOR
+## WABA
 
 [Brian P. O'Connor](https://people.ok.ubc.ca/brioconn/boconnor.html)
 
 ---
 
-DFA.CANCOR is an [R](https://www.r-project.org) package with functions that produce SPSS- and SAS-like output 
-for linear discriminant function analysis and canonical correlation analysis.
+WABA is an [R](https://www.r-project.org) package with functions for 
+conducting Within-and-Between-Analysis for Groups and Dyads.
 
 ---
 
