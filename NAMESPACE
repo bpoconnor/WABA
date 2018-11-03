@@ -1,0 +1,3 @@
+export(waba,wabamodreg,wabamra,ggdist,ggexch)
+
+importFrom("stats", "complete.cases", "cor", "cov", "na.omit", "pf", "pnorm", "pt")
