@@ -4,8 +4,11 @@
 
 ---
 
-WABA is an [R](https://www.r-project.org) package with functions for 
-conducting Within-and-Between-Analyses for Groups and Dyads.
+WABA is an [R](https://www.r-project.org) package with functions and 
+datasets for within-and-between-analyses of data from individuals who 
+are nested within groups or dyads. Based on Dansereau, Alutto, and 
+Yammarino (1984), Griffin and Gonzalez (1995), Gonzalez and 
+Griffin (1999), and O'Connor (2004).
 
 ---
 
